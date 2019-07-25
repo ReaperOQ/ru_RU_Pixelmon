@@ -7216,12 +7216,12 @@ pixelmon.config.bellSuccessChance=Шанс успеха колокола
 pixelmon.config.bellSuccessChance.comment=Шанс, что звонок, на рассвете, начнет звонить. 1 = 100%.
 pixelmon.config.bellInclusionRange=Диапазон включения колокола
 pixelmon.config.bellInclusionRange.comment=Диапазон в блоках, которые Clear / Tidal Bells будут искать другие колокола.
-pixelmon.config.spawnUltraSpaceEndCities.comment=Должны ли End Cities генерироваться в Ультра Космосе.
-pixelmon.config.spawnUltraSpaceExtraLoots.comment=Нужно ли создавать новый ПокеЛут в Ультра Космосе.
-pixelmon.config.spawnUltraSpaceExtraOres.comment=Нужно ли генерировать больше руд в Ультра Космосе.
-pixelmon.config.spawnUltraSpaceExtraPlants.comment=Нужно ли создавать больше растений (априкорны, ягоды) в Ультра Космосе.
-pixelmon.config.spawnUltraSpaceExtraShrines.comment=Нужно ли генерировать больше святынь в Ультра Космосе.
-pixelmon.config.spawnUltraSpaceNetherForts.comment=Нужно ли генерировать Nether Forts в Ультра Космосе.
+pixelmon.config.spawnUltraSpaceEndCities.comment=Должны ли End Cities генерироваться в Ультра-пространстве.
+pixelmon.config.spawnUltraSpaceExtraLoots.comment=Нужно ли создавать новый ПокеЛут в Ультра-пространстве.
+pixelmon.config.spawnUltraSpaceExtraOres.comment=Нужно ли генерировать больше руд в Ультра-пространстве.
+pixelmon.config.spawnUltraSpaceExtraPlants.comment=Нужно ли создавать больше растений (априкорны, ягоды) в Ультра-пространстве.
+pixelmon.config.spawnUltraSpaceExtraShrines.comment=Нужно ли генерировать больше святынь в Ультра-пространстве.
+pixelmon.config.spawnUltraSpaceNetherForts.comment=Нужно ли генерировать Nether Forts в Ультра-пространстве.
 
 
 #
@@ -7392,18 +7392,18 @@ pixelmon.config.injectIntoLootTables.comment=Должен ли Pixelmon мод �
 #
 # UltraSpace Category
 #
-pixelmon.config.ultraSpace=Включить Ультра-Космос
-pixelmon.config.ultraSpace.comment=Независимо от того, включено ли Ультра Космическое Измерение или нет.
+pixelmon.config.ultraSpace=Включить Ультра-пространство
+pixelmon.config.ultraSpace.comment=Независимо от того, включено ли Ультра Измерение или нет.
 pixelmon.config.ultraSpaceDimId=ID Измерения
-pixelmon.config.ultraSpaceDimId.comment=Измерение ID Ультра Космического Измерения по умолчанию. Если меньше 2, по умолчанию используется ID 72.
+pixelmon.config.ultraSpaceDimId.comment=Измерение ID Ультра Измерения по умолчанию. Если меньше 2, по умолчанию используется ID 72.
 pixelmon.config.ultraSpaceShinyModifier=Шайни Модификатор
 pixelmon.config.ultraSpaceShinyModifier.comment=Изменяет редкость шайни покемона в Ультра Космическом Измерении (woolRate * ultraSpaceShinyModifier).
 pixelmon.config.ultraSpaceBossModifier=Босс Модификатор
 pixelmon.config.ultraSpaceBossModifier.comment=Изменяет редкость боссов в Ультра Космическом Измерении (bossRate * ultraSpaceBossModifier).
 pixelmon.config.ultraSpaceHiddenAbilityModifier=Хид Модификатор
 pixelmon.config.ultraSpaceHiddenAbilityModifier.comment=Изменяет редкость скрытых способностей в Ультра Космическом Измерении (hiddenAbilitySpawnRate * ultraSpaceHiddenAbilityModifier).
-pixelmon.config.ultraSpaceColourblindMode=Ультра-Космос цветной режим
-pixelmon.config.ultraSpaceColourblindMode.comment=Использовать ли Ультра-Космос цветной режим.
+pixelmon.config.ultraSpaceColourblindMode=Режим цветовой слепоты в Ультра-пространстве
+pixelmon.config.ultraSpaceColourblindMode.comment=Использовать ли режим цветовой слепоты в Ультра-пространстве.
 
 #
 # ExternalFiles Category
@@ -7754,5 +7754,5 @@ pokerus.message.inform1=Ваш Покемон, кажется, был зараж
 pokerus.message.inform2=ПокеВирус распространяется очень быстро, но, похоже, он не наносит никакого вреда.
 pokerus.message.inform3=Иногда он даже оказался полезным для роста Покемона, хотя инфекции, похоже, недолговечны.
 
-generator.ultra_space=Ультра Пространство
+generator.ultra_space=Ультра-пространство
 generator.ultra_space.info=Нет тумана, нормальная гравитация. Пустота убивает!
